@@ -1,0 +1,29 @@
+body{
+  background : #f5d9d5;
+  margin:0;
+  padding:0;
+}
+#mainNavbar {
+ font-weight:700;
+ font-size: 1.5rem;
+}
+#mainNavbar .nav-link{
+  color:white;
+}
+#mainNavbar .nav-link:hover {
+  color: #EA1C2C;
+}
+
+span{
+    color: #EA1C2C;
+}
+#headingGroup h2{
+  font-weight:400;
+  font-size:2rem;
+}
+
+.scrolled {
+  background: #dec0de;
+  -webkit-transition: background 200ms;
+  transition: background 200ms;
+}
